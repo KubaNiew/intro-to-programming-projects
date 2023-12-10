@@ -74,7 +74,7 @@ public class triangle {
 
     
     
-    //Remeber to fix assending order
+    
     public static int numOfLines = 1;
     public static void classifyTriangle(PrintWriter outputFile, int sideA, int sideB,int sideC) {
 
