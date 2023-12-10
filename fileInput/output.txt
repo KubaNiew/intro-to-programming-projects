@@ -1,0 +1,28 @@
+1: The triangle 3, 4, 5 is a right Traingle
+The area of this triangle is   6.00
+2: The triangle 5, 5, 5 is a Equalateral
+The area of this triangle is   10.83
+3: The triangle 5, 5, 7 is a Iscoles
+The area of this triangle is   12.50
+Item Discarded: XXX
+Error - At least one of your sides is an invalid integer value
+Item Discarded: 15
+Error - At least one of your sides is an invalid integer value
+Error - At least one of your sides is not an integer
+Error - At least one of your sides is not an integer
+Error - Sides not in ascending order
+Item Discarded: 6
+Item Discarded: YYY
+Item Discarded: ZZZ
+Error - Sides cannot form a valid triangle
+4: The triangle 15, 16, 22 is a scalene
+The area of this triangle is   120.00
+
+EOF found
+
+File Path: /Users/kubaniewiarowski/Documents/INFO151/example/input.txt
+--------------- Summary Report ---------------
+Total entries processed 	= 11
+Number of valid entries 	= 4
+Number of invalid entries 	= 7
+Percentage of valid entries 	= 36.36%

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=triangle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=file\ inputFile\ outputFile
+comment2.target=void\ processFile(java.io.File,\ java.util.Scanner,\ java.io.PrintWriter)
+comment3.params=outputFile\ sideA\ sideB\ sideC
+comment3.target=void\ classifyTriangle(java.io.PrintWriter,\ int,\ int,\ int)
+comment4.params=sideA\ sideB\ sideC\ outputFile
+comment4.target=void\ area(double,\ double,\ double,\ java.io.PrintWriter)
+comment5.params=file\ outputFile
+comment5.target=void\ summeryReport(java.io.File,\ java.io.PrintWriter)
+numComments=6
